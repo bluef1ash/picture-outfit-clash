@@ -1,0 +1,6 @@
+pillow
+numpy
+scipy
+matplotlib
+pyqt5
+pyqt5-stubs
